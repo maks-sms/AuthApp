@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AuthApp</string>
+    <string name="email_hint">Почта</string>
+    <string name="password_hint">Пароль</string>
+    <string name="login_button">Войти</string>
+    <string name="validate_token_button">Проверить токен</string>
+    <string name="token_label">Токен: %s</string>
+    <string name="token_valid_label">Токен валиден: %s</string>
+    <string name="error_label">Ошибка: %s</string>
+</resources>
